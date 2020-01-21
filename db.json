@@ -1,7 +1,7 @@
 {
   "users": {
-    "users": [
-      {
+    "users": {
+      1: {
         "id": 1,
         "name": "Leanne Graham",
         "username": "Bret",
@@ -24,7 +24,7 @@
           "bs": "harness real-time e-markets"
         }
       }
-    ]
+}
   },
 
   "profile": {
